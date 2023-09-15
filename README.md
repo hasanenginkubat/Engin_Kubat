@@ -1,4 +1,4 @@
-[![MasterHead](https://www.revenueriver.co/hubfs/fullstack.jpeg)
+![MasterHead](https://www.revenueriver.co/hubfs/fullstack.jpeg)
 <h1 align="center">Hi 👋, I'm Hasan Engin Kubat</h1>
 <h3 align="center">A passionate full stack web developer from Turkey</h3>
 
